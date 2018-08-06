@@ -6,3 +6,6 @@ Nombre de los integrantes del grupo: xxxxxxxx-xxxxxxxxxxxx
 
 Intruccion para ver o ejecutar el proyecto
 
+Cambio el readme....
+
+
